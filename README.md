@@ -1,7 +1,7 @@
 # OpenEndedLM: Open Ended Language Models to Self Improve
 
 ### A simplified diagram of the current recipe:
-![recipe](https://github.com/user-attachments/assets/9af21d1d-98ec-481f-844b-2883f6f9103e)
+![recipe](recipe.png)
 
 Here is the current recipe:
 1. We sample questions with the empty chat template so that the LLM generates questions instead of answers as seen in [Magpie](https://arxiv.org/abs/2406.08464).
