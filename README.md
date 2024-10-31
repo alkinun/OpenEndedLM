@@ -15,4 +15,4 @@ We hope that this open ended system can refine its past knowlage as it samples d
 ### Flashing News!!!
 As of `31/10/2024`, finetuning `Qwen2.5-1.5B-Instruct` on a self-generated dataset got us `16.7` on GPQA, with only 2k examples of self-generated data (see `generate_ds.ipynb`), while the instruct model got `9.6`.
 
-More testing + r&d + paper coming soon!
+### More testing + r&d + paper coming soon!
