@@ -1,7 +1,7 @@
 # OpenEndedLM: Open Ended Language Models to Self Improve
 
 ### Updates:
-`01/11/2024`: With just 600 examples of self-generated data, we got `Qwen2.5-1.5B-Instruct` from scoring `9.64` to `14.72` on a version of gpqa.
+`01/11/2024`: With just 600 examples of self-generated data, we got `Qwen2.5-1.5B-Instruct` from scoring `9.64` to `14.72` on a crappy version of gpqa, see `eval`.
 
 ### A simplified diagram of the current recipe:
 ![recipe](recipe.png)
