@@ -1,6 +1,6 @@
 import openai
 
-client = openai.Client(base_url="http://127.0.0.1:30000/v1", api_key="EMPTY")
+client = openai.Client(base_url="http://127.0.0.1:16161/v1", api_key="EMPTY")
 
 def chat(prompt, temperature=0):
     response = client.chat.completions.create(
